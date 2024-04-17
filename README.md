@@ -1,6 +1,6 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--0sMkBQVT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raygun.com/blog/images/programming-languages/feature.png)
 <h1 align="center">Hi 👋, I'm Yaren</h1>
-<h3 align="center">"I am a software development student in Turkey."</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on **C#**
 
