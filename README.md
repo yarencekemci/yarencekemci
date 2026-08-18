@@ -14,3 +14,24 @@ My goal is to build a strong foundation in backend development and pursue a care
 - 🌱 Currently learning C#, ASP.NET Core, SQL and AI
 - 🎯 Focusing on Backend Development
 - 📚 Continuously improving my software development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- C#
+- SQL
+
+### Frameworks & Technologies
+- .NET
+- ASP.NET Core
+
+### Databases
+- Microsoft SQL Server
+- PostgreSQL
+
+### Tools
+- Git
+- GitHub
+- Visual Studio
