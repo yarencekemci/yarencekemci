@@ -8,14 +8,15 @@
 
 I'm currently working in **IT Help Desk**, providing software and technical support for ERP systems.
 
-Alongside my IT experience, I'm improving my software development skills with **C#, ASP.NET Core, SQL, and Artificial Intelligence**.
+Alongside my IT experience, I have worked with **C#, ASP.NET Core MVC, SQL, and relational databases**, and I'm continuing to improve my software development skills while exploring **Artificial Intelligence**.
 
-My goal is to strengthen my backend development skills and build real-world applications as I work toward a career in **Backend Development**.
+My goal is to deepen my backend development knowledge, build real-world applications, and pursue a career in **Backend Development**.
 
 * 💻 Working in IT Help Desk & ERP Support
-* 🌱 Learning C#, ASP.NET Core, SQL and AI
+* 💡 Experienced with ASP.NET Core MVC through hands-on projects
+* 🌱 Continuously improving my C#, ASP.NET Core, SQL and AI skills
 * 🎯 Focusing on Backend Development
-* 📚 Improving my software development and problem-solving skills
+* 📚 Building projects to strengthen my software development and problem-solving skills
 
 ## 🛠️ Tech Stack
 
@@ -44,10 +45,10 @@ My goal is to strengthen my backend development skills and build real-world appl
 ### Frameworks & Technologies
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" title=".NET / ASP.NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" title=".NET" />
 </p>
 
-`.NET`   `ASP.NET Core`
+`.NET`   `ASP.NET Core`   `ASP.NET Core MVC`
 
 ### Databases
 
@@ -71,14 +72,14 @@ My goal is to strengthen my backend development skills and build real-world appl
 
 `Git`   `GitHub`   `Visual Studio`
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning & Improving
 
-* ASP.NET Core MVC
 * Entity Framework Core
 * RESTful APIs
 * Backend Architecture
 * Clean Code & SOLID Principles
 * Artificial Intelligence
+* Advanced ASP.NET Core concepts
 
 ## 🚀 Featured Projects
 
