@@ -1,8 +1,5 @@
 
-
-<p align="center">
-  <img src="./github-banner-v2.png" alt="Yaren Çekemci GitHub Banner" width="100%" />
-</p>
+<img src="./github-banner-v2.png" alt="Yaren Çekemci GitHub Banner" width="100%" />
 
 
 ## 👩‍💻 About Me
