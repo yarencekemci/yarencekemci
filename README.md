@@ -79,11 +79,6 @@ My goal is to deepen my backend development knowledge, build real-world applicat
 * Artificial Intelligence
 * Advanced ASP.NET Core concepts
 
-## 🚀 Featured Projects
-
-I'm currently building and improving projects focused on **C#, ASP.NET Core, databases, and backend development**.
-
-Projects will be added here as I continue building my backend portfolio.
 
 ## 📫 Connect With Me
 
