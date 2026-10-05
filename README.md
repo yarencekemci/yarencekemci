@@ -1,7 +1,4 @@
 
-<img src="./github-banner2.png" alt="Yaren Çekemci GitHub Banner" width="100%" />
-
-
 ## 👩‍💻 About Me
 
 I'm currently working in **IT Help Desk**, providing software and technical support for ERP systems.
@@ -24,11 +21,9 @@ My goal is to deepen my backend development knowledge, build real-world applicat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" title="C#" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" height="45" alt="SQL" title="SQL" />
 </p>
 
-`C#`   `JavaScript`   `SQL`
+`C#`   `JavaScript`
 
 ### Frontend
 
@@ -38,7 +33,7 @@ My goal is to deepen my backend development knowledge, build real-world applicat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" title="CSS" />
 </p>
 
-`HTML`   `CSS`
+`HTML`   `CSS`
 
 ### Frameworks & Technologies
 
@@ -46,17 +41,19 @@ My goal is to deepen my backend development knowledge, build real-world applicat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" title=".NET" />
 </p>
 
-`.NET`   `ASP.NET Core`   `ASP.NET Core MVC`
+`.NET`   `ASP.NET Core`   `ASP.NET Core MVC`
 
 ### Databases
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" height="45" alt="SQL" title="SQL" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" />
 </p>
 
-`Microsoft SQL Server`   `PostgreSQL`
+`SQL`   `Microsoft SQL Server`   `PostgreSQL`
 
 ### Tools
 
@@ -68,7 +65,7 @@ My goal is to deepen my backend development knowledge, build real-world applicat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" height="45" alt="Visual Studio" title="Visual Studio" />
 </p>
 
-`Git`   `GitHub`   `Visual Studio`
+`Git`   `GitHub`   `Visual Studio`
 
 ## 🌱 Currently Learning & Improving
 
@@ -78,7 +75,6 @@ My goal is to deepen my backend development knowledge, build real-world applicat
 * Clean Code & SOLID Principles
 * Artificial Intelligence
 * Advanced ASP.NET Core concepts
-
 
 ## 📫 Connect With Me
 
@@ -90,5 +86,5 @@ My goal is to deepen my backend development knowledge, build real-world applicat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub" />
 </a>
 
-**LinkedIn:** [Yaren Çekemci](https://tr.linkedin.com/in/yaren-%C3%A7ekemci-2b09b2277)
+**LinkedIn:** [Yaren Çekemci](https://tr.linkedin.com/in/yaren-%C3%A7ekemci-2b09b2277)  
 **GitHub:** [yarencekemci](https://github.com/yarencekemci)
